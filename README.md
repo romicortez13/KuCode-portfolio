@@ -53,6 +53,6 @@ Herramientas
 
 Nmap · WPScan · ffuf · SQLMap · Commix · Nuclei · OWASP ZAP · Hydra · tshark · TruffleHog · Subfinder · Katana · Nikto · Wafw00f · SSLScan
 
-Aviso legal
+#Aviso legal
 
 Este proyecto fue desarrollado para uso profesional. Queda estrictamente prohibido utilizarlo en sistemas sin autorización explícita del propietario. Cualquier uso no autorizado es responsabilidad exclusiva de quien lo ejecute.
