@@ -11,7 +11,7 @@ A diferencia de las soluciones convencionales basadas en una única herramienta,
 * Detección automática de CMS y tecnologías web (WordPress, Joomla, Laravel, entre otros).
 * Ejecución automatizada de hasta 8 fases de análisis.
 * Generación de un puntaje global de riesgo en una escala de 0 a 100.
-* Creación de reportes en Word y HTML con hallazgos clasificados por severidad.
+* Creación de reportes en PDF y HTML con hallazgos clasificados por severidad.
 * Correlación de vulnerabilidades con OWASP Top 10 y OWASP ASVS.
 * Análisis simultáneo de múltiples URLs.
 * Consulta automática de bases de datos de vulnerabilidades y exploits conocidos.
@@ -29,14 +29,14 @@ A diferencia de las soluciones convencionales basadas en una única herramienta,
 | Explotación      | Validación de vulnerabilidades mediante SQLMap, Commix y pruebas controladas de fuerza bruta con Hydra.                  |
 | Auditoría        | Detección de secretos expuestos, repositorios públicos, archivos sensibles y configuraciones inseguras.                  |
 | Inteligencia CVE | Consulta de NVD y ExploitDB para enriquecer los hallazgos con información sobre CVEs y exploits conocidos.               |
-| Reporte          | Generación de reportes interactivos en Word y HTML con puntaje de riesgo, clasificación y recomendaciones de mitigación. |
+| Reporte          | Generación de reportes interactivos en PDF y HTML con puntaje de riesgo, clasificación y recomendaciones de mitigación. |
 
 
 
 ##  Salidas Generadas
 
 * Reporte HTML interactivo.
-* Documento Word (.docx).
+* Documento PDF.
 * Clasificación de hallazgos por severidad.
 * Puntaje global de riesgo.
 * Mapeo de vulnerabilidades a OWASP Top 10 y OWASP ASVS.
